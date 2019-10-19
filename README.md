@@ -1,2 +1,2 @@
-# liff ARM
+# liff
 Public Liff
